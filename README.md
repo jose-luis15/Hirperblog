@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f49a: :tw-1f49b: :tw-1f499:
+# Hyperblog 💛💚💙
 
 Unblog increible creado por Jose Perez para el [Curso de Git y Github](https://platzi.com/clases/git-github/ "Curso de Git y Github") de [Platzi](https://platzi.com "Platzi")
 
