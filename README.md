@@ -1,6 +1,6 @@
 # Hyperblog 💛💚💙
 
-Unblog increible creado por Jose Perez para el [Curso de Git y Github](https://platzi.com/clases/git-github/ "Curso de Git y Github") de [Platzi](https://platzi.com "Platzi")
+Un bog increible creado por Jose Perez para el [Curso de Git y Github](https://platzi.com/clases/git-github/ "Curso de Git y Github") de [Platzi](https://platzi.com "Platzi")
 
 > El curso me esta aportando mucho en mi formación como desarrollador web asi que personalmente recomendaría tomarlo.
 
